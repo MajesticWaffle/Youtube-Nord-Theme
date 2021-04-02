@@ -35,3 +35,8 @@ Give a ⭐️ if this project helped you!
 ## 📝 note
 
 This is my **Personal** theme, there may be some things that you wont like. You'll need to change that by yourself.
+
+## 📩 License
+
+Copyright © 2021 [sheepdev](https://github.com/sheeepdev).<br />
+This project is [MIT](https://github.com/sheeepdev/nordtube/blob/master/LICENSE) licensed.
