@@ -20,7 +20,7 @@ The only thing you need to have installed is the [stylus](https://github.com/ope
 
 🐏 **sheep**
 
-* Website: sheepdev.xyz
+* Website: https://sheepdev.xyz
 * Twitter: [@imsheeep](https://twitter.com/imsheeep)
 * Github: [@sheeepdev](https://github.com/sheeepdev)
 
