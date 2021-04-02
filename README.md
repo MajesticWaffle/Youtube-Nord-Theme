@@ -34,4 +34,4 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 note
 
-This is my **Personal** theme, there may be some things that you wont like. You'll need to change that yourself.
+This is my **Personal** theme, there may be some things that you wont like. You'll need to change that by yourself.
