@@ -8,8 +8,6 @@
 
 > youtube theme based on the nord color scheme
 
-### 🏠 [Homepage](https://github.com/sheeepdev/nordtube)
-
 ## Install
 
 
