@@ -21,7 +21,7 @@ The only thing you need to have installed is the [stylus](https://github.com/ope
 🐏 **sheep**
 
 * Website: https://sheepdev.xyz
-* Twitter: [@imsheeep](https://twitter.com/imsheeep)
+* Twitter: [@imsheeeep](https://twitter.com/imsheeeep)
 * Github: [@sheeepdev](https://github.com/sheeepdev)
 
 ## 🤝 Contributing
