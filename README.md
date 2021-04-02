@@ -4,9 +4,6 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/imsheeeep" target="_blank">
-    <img alt="Twitter: imsheeeep" src="https://img.shields.io/twitter/follow/imsheeep.svg?style=social" />
-  </a>
 </p>
 
 > youtube theme based on the nord color scheme
