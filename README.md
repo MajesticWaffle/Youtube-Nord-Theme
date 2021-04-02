@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> youtube theme based on the nord color scheme
+> is a youtube theme based on the nord color scheme
 
 
 ## 💻 installation
