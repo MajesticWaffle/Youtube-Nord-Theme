@@ -327,3 +327,57 @@ ytd-simple-menu-header-renderer {
 #vote-count-middle.ytd-comment-action-buttons-renderer {
     color: #d8dee9
 }
+
+channel-header.ytd-c4-tabbed-header-renderer {
+    background-color: #3b4252
+}
+
+#header.ytd-browse, #tabs-inner-container.ytd-c4-tabbed-header-renderer {
+    background-color: #3b4252
+}
+
+ytd-page-manager > .ytd-page-manager {
+    background-color: #2e3340
+}
+
+.tab-content.tp-yt-paper-tab, tp-yt-paper-tab.iron-selected.ytd-c4-tabbed-header-renderer {
+    color: #d8dee9
+}
+
+ytd-playlist-thumbnail #thumbnail.ytd-playlist-thumbnail {
+    border-radius: 20px;
+}
+
+#metadata.ytd-channel-renderer, #description.ytd-channel-renderer, #subscriber-count.ytd-c4-tabbed-header-renderer {
+    color: #d8dee9
+}
+
+ytd-backstage-post-thread-renderer {
+    border: none;
+}
+
+.progress-bar.ytd-backstage-poll-renderer {
+    background-color: #4c556a;
+    border-radius: 5px;
+}
+
+ytd-backstage-poll-renderer[show-poll-choice-border] tp-yt-paper-item.ytd-backstage-poll-renderer[show-percentage] .choice-info.ytd-backstage-poll-renderer {
+    border: none;
+}
+
+yt-icon.checked.ytd-backstage-poll-renderer {
+    color: #5e81ac
+}
+
+tp-yt-paper-item.ytd-backstage-poll-renderer[selected] .progress-bar.ytd-backstage-poll-renderer {
+    background-color: #5e81ac;
+    border-radius: 5px;
+}
+
+yt-icon.ytd-backstage-poll-renderer, #vote-info.ytd-backstage-poll-renderer {
+    color: #d8dee9
+}
+
+ytd-backstage-poll-renderer[show-poll-choice-border] .choice-info.ytd-backstage-poll-renderer {
+    border: none;
+}
