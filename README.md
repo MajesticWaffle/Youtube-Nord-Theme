@@ -15,15 +15,15 @@
 
 ## Install
 
-```sh
-The only thing you need to have installed is stylus (https://github.com/openstyles/stylus)
-```
+
+The only thing you need to have installed is [stylus](https://github.com/openstyles/stylus)
+
 
 ## Usage
 
-```sh
-Click on this to install (https://github.com/sheeepdev/nordtube/raw/main/nordtube.user.css)
-```
+
+[click here to install](https://github.com/sheeepdev/nordtube/raw/main/nordtube.user.css)
+
 
 ## Author
 
