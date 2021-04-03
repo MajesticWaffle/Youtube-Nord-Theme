@@ -7,7 +7,12 @@
 </p>
 
 > is a youtube theme based on the nord color scheme
-> Basically the same as Sheep's, but with minor tweaks.
+<br> 
+> Basically the same as Sheep's, but with tweaks:
+* Removed ugly rounding on video player and thumbnails.
+* Changed PFPs Border to 5px because modern design bad.
+* Darkened background (technically not in nord color pallete, I dont care)
+* Search bar now different color.
 
 
 ## 💻 installation
@@ -25,12 +30,6 @@ Original:
 * Website: https://sheepdev.xyz
 * Twitter: [@imsheeeep](https://twitter.com/imsheeeep)
 * Github: [@sheeepdev](https://github.com/sheeepdev)
-
-Modified:
-  **Majestic Waffle**
-* Website: https://thiccindustries.com
-* I hate twitter
-* Github: [@MajesticWaffle](https://github.com/MajesticWaffle)
 
 ## 🤝 Contributing
 
