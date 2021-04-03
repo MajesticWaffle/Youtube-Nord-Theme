@@ -1,3 +1,4 @@
+
 <h1 align="center">nordtube</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -6,44 +7,43 @@
   </a>
 </p>
 
-> is a youtube theme based on the nord color scheme
-<br> 
-> Basically the same as Sheep's, but with tweaks:
+>Youtube Nord theme
+
 * Removed ugly rounding on video player and thumbnails.
 * Changed PFPs Border to 5px because modern design bad.
 * Darkened background (technically not in nord color pallete, I dont care)
 * Search bar now different color.
 
 
-## 💻 installation
+## installation
 
 The only thing you need to have installed is the [stylus](https://github.com/openstyles/stylus) browser extension
 
 [click here to install nordtube](https://github.com/MajesticWaffle/nordtube/raw/main/nordtube.user.css)
 
 
-## 👤 Author
+## Author
 
 Original:
-🐏 **sheep**
+**sheep**
 
 * Website: https://sheepdev.xyz
 * Twitter: [@imsheeeep](https://twitter.com/imsheeeep)
 * Github: [@sheeepdev](https://github.com/sheeepdev)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/sheeepdev/nordtube/issues). 
 
-## 🌟 Show your support
+## Show your support
 
 Give a ⭐️ if this project helped you!
 
-## 📝 note
+## note
 
 This is my **Personal** theme, there may be some things that you wont like. You'll need to change that by yourself.
 
-## 📩 License
+## License
 
 Copyright © 2021 [sheepdev](https://github.com/sheeepdev).<br />
 This project is [MIT](https://github.com/sheeepdev/nordtube/blob/main/LICENSE) licensed.
