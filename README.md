@@ -31,18 +31,6 @@ Original:
 * Twitter: [@imsheeeep](https://twitter.com/imsheeeep)
 * Github: [@sheeepdev](https://github.com/sheeepdev)
 
-## Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/sheeepdev/nordtube/issues). 
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## note
-
-This is my **Personal** theme, there may be some things that you wont like. You'll need to change that by yourself.
-
 ## License
 
 Copyright © 2021 [sheepdev](https://github.com/sheeepdev).<br />
