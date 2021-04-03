@@ -7,22 +7,30 @@
 </p>
 
 > is a youtube theme based on the nord color scheme
+> Basically the same as Sheep's, but with minor tweaks.
 
 
 ## 💻 installation
 
 The only thing you need to have installed is the [stylus](https://github.com/openstyles/stylus) browser extension
 
-[click here to install nordtube](https://github.com/sheeepdev/nordtube/raw/main/nordtube.user.css)
+[click here to install nordtube](https://github.com/MajesticWaffle/nordtube/raw/main/nordtube.user.css)
 
 
 ## 👤 Author
 
+Original:
 🐏 **sheep**
 
 * Website: https://sheepdev.xyz
 * Twitter: [@imsheeeep](https://twitter.com/imsheeeep)
 * Github: [@sheeepdev](https://github.com/sheeepdev)
+
+Modified:
+  **Majestic Waffle**
+* Website: https://thiccindustries.com
+* I hate twitter
+* Github: [@MajesticWaffle](https://github.com/MajesticWaffle)
 
 ## 🤝 Contributing
 
